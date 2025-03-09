@@ -3,7 +3,9 @@
 ### 🌐 Live Demo: [internship1sw.ccbp.tech](https://internship1sw.ccbp.tech/)
 
 ## 📌 About the Project
-This is a static website built as part of my internship project. It showcases fundamental web development skills using **HTML, CSS, and Bootstrap 4.5**. The website presents structured content with a clean layout but is currently **not responsive**.
+This is a static website built as part of my internship project. It showcases fundamental web development skills using **HTML, CSS, and Bootstrap 4.5**.
+
+---
 
 ## 🚀 Features
 - Simple and elegant design  
@@ -11,14 +13,14 @@ This is a static website built as part of my internship project. It showcases fu
 - Built with **HTML, CSS, and Bootstrap**  
 - Hosted online for easy access  
 
-## ⚠️ Limitations
-- ❌ Not responsive for mobile and tablet screens  
-- ❌ No interactive JavaScript elements  
+---
 
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
 - Bootstrap 4.5  
+
+---
 
 ## 📌 Future Improvements
 - ✅ Make the website **fully responsive** for all screen sizes  
