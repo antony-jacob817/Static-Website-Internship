@@ -1,970 +1,973 @@
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
 .body {
-    background: rgb(25, 23, 23);
-    background: linear-gradient(270deg, rgba(25, 23, 23, 1) 0%, rgba(20, 20, 50, 1) 46%, rgba(43, 63, 91, 1) 100%);
-    width: 100%;
-    height: 100vh;
-    padding-top: 75px;
-    padding-left: 160px;
+  background: rgb(25, 23, 23);
+  background: linear-gradient(
+    270deg,
+    rgba(25, 23, 23, 1) 0%,
+    rgba(20, 20, 50, 1) 46%,
+    rgba(43, 63, 91, 1) 100%
+  );
+  width: 100%;
+  height: 100vh;
+  padding-top: 75px;
+  padding-left: 160px;
 }
 
 .body2 {
-    background: #0f172a;
-    height: 78vh;
+  background: #0f172a;
+  height: 78vh;
 }
 
-.body3{
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4b212d25fe3_A%20Rare%20Collection%20of%20Insider%20%20Knowledge%2C%20All%20Yours!%20(1).png");
-    height: 165vh;
-    background-size: cover;
+.body3 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4b212d25fe3_A%20Rare%20Collection%20of%20Insider%20%20Knowledge%2C%20All%20Yours!%20(1).png");
+  height: 165vh;
+  background-size: cover;
 }
 
 .body4 {
-    background: #0f172a;
-    height: 100vh;
+  background: #0f172a;
+  height: 100vh;
 }
 
-.body5{
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e843d25fd4_NxtWave's%20Empowering%20Podcast%20Series%20%20to%20Shape%20your%20Dream%20Career.%20(1).png");
-    height: 100%;
-    background-size: cover;
-    padding: 90px;
+.body5 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e843d25fd4_NxtWave's%20Empowering%20Podcast%20Series%20%20to%20Shape%20your%20Dream%20Career.%20(1).png");
+  height: 100%;
+  background-size: cover;
+  padding: 90px;
 }
 
-.body6{
-    background: #0f172a;
-    height: 60vh;
+.body6 {
+  background: #0f172a;
+  height: 60vh;
 }
 
-.body7{
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/645345c7c2106e1bd1c65a6c_Background%20String.png");
-    height: 100%;
-    background-size: cover;
-    padding-top: 55px;
-    padding-bottom: 25px;
+.body7 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/645345c7c2106e1bd1c65a6c_Background%20String.png");
+  height: 100%;
+  background-size: cover;
+  padding-top: 55px;
+  padding-bottom: 25px;
 }
 
-.body8{
-    background: #0f172a;
-    height: 81vh;
-    padding-left: 190px;
-    padding-right: 190px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+.body8 {
+  background: #0f172a;
+  height: 81vh;
+  padding-left: 190px;
+  padding-right: 190px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
-.talks{
-    width: 230px;
+.talks {
+  width: 230px;
 }
 
 .carousel-inner {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 
 .by {
-    padding-left: 150px;
+  padding-left: 150px;
 }
 
 .h1 {
-    font-size: 60px;
-    font-family: 'Roboto';
-    font-weight: bold;
+  font-size: 60px;
+  font-family: "Roboto";
+  font-weight: bold;
 }
 
 span {
-    color: #a3e635;
+  color: #a3e635;
 }
 
-p{
-    font-size: 15px;
-    font-family: "Arial";
+p {
+  font-size: 15px;
+  font-family: "Arial";
 }
 
-.paraspan{
-    font-family: 'Roboto';
-    font-size: 20px;
-    font-weight: bold;
-    margin-left: 9px;
+.paraspan {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 9px;
 }
 
 img {
-    width: 25%;
+  width: 25%;
 }
 
-.smallimg{
-    width: 4%;
-    position: absolute;
-    margin-top: 8px;
+.smallimg {
+  width: 4%;
+  position: absolute;
+  margin-top: 8px;
 }
 
 video {
-    width: 100%;
+  width: 100%;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
-.button1{
-    width: 28%;
-    font-family: 'Roboto';
-    height: 45px;
-    border-radius: 10px;
+.button1 {
+  width: 28%;
+  font-family: "Roboto";
+  height: 45px;
+  border-radius: 10px;
 }
 
-.button2{
-    width: 28%;
-    font-family: 'Roboto';
-    height: 45px;
-    border-radius: 10px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: white;
+.button2 {
+  width: 28%;
+  font-family: "Roboto";
+  height: 45px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
 }
 
-.speaker{
-    text-align: center;
-    margin-top: 100px;
-    margin-bottom: 25px;
-    font-size: 50px;
-    line-height: 70px;
-    font-family: "roboto";
-    font-weight: bold;
+.speaker {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 25px;
+  font-size: 50px;
+  line-height: 70px;
+  font-family: "roboto";
+  font-weight: bold;
 }
 
-.band{
-    width: 200%;
-    margin-top: 50px;
-    margin-left: 90px;
+.band {
+  width: 200%;
+  margin-top: 50px;
+  margin-left: 90px;
 }
 
-.head{
-    margin-top: 7%;
-    font-size: 50px;
-    font-family: "Roboto";
-    font-weight: bold;
-    line-height: 70px;
+.head {
+  margin-top: 7%;
+  font-size: 50px;
+  font-family: "Roboto";
+  font-weight: bold;
+  line-height: 70px;
 }
 
-.para{
-    margin-top: 1%;
-    font-size: 20px;
-    font-family: "Roboto";
-    color: #e4ddddd4;
+.para {
+  margin-top: 1%;
+  font-size: 20px;
+  font-family: "Roboto";
+  color: #e4ddddd4;
 }
 
-.tgl{
-    margin-top: 2%;
+.tgl {
+  margin-top: 2%;
 }
 
-.llist.active{
-    background-color: white !important;
-    color: rgb(0, 0, 0) !important;
+.llist.active {
+  background-color: white !important;
+  color: rgb(0, 0, 0) !important;
 }
 
-.llist:hover{
-    background-color: rgba(255, 255, 255, 0);
-    color: white;
+.llist:hover {
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
 }
 
-.llist{
-    border-width: 2px;
-    margin-right: 5px;
-    margin-left: 5px;
-    color: white;
-    border-radius: 1000px;
-    text-align: center;
-    border-style: solid ;
-    border-color: white;
-    font-family: "Roboto";
-    font-weight: 500;
-    font-size: 15px;
-    padding: 5px;
+.llist {
+  border-width: 2px;
+  margin-right: 5px;
+  margin-left: 5px;
+  color: white;
+  border-radius: 1000px;
+  text-align: center;
+  border-style: solid;
+  border-color: white;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 15px;
+  padding: 5px;
 }
 
-.l1{
-    width: 120px;
+.l1 {
+  width: 120px;
 }
 
-.l2{
-    width: 60px;
+.l2 {
+  width: 60px;
 }
 
-.l3{
-    width: 80px;
+.l3 {
+  width: 80px;
 }
 
-.l4{
-    width: 90px;
+.l4 {
+  width: 90px;
 }
 
-.l5{
-    width: 60px;
+.l5 {
+  width: 60px;
 }
 
-.l6{
-    width: 120px;
-}
-
-.l7{
-    width: 80px;
-}
-
-.l8{
-    width: 80px;
-}
-
-.tab-pane{
-    background-color: #00000000 !important;
-}
-
-.card-img1{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sandeep.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img2{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/pritesh.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img3{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sanjay.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img4{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/goutam.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img5{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/ashok-vardhan.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img6{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/sri-vidhya.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img7{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/kiran.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img8{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/abhinav.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img9{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/siva-ghani-reddy.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img10{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690c3b977eb17ab2fe49ddb_krishna-raghavan-thumbnail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img11{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/giridhar.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img12{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/shiva-kumar.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img13{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690c65ced331713c1b1b2dc_irshad-thumbnail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img14{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690c9ef1acc87ac5abbaa62_sriram-thumbnail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img15{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/architha-nagelli.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img16{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/naveen.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img17{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/deepa-wadhwani.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img18{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sanjay-sehgal.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img19{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/trivikrama-kothinti-2.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img20{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/rakesh-mishra.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img21{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/ram-ganesh.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img23{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/girish-akash.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img24{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/hari-tn.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img25{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/shri-dana-kishor.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img26{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/panel-2.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img27{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/panel-1.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img28{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/panel-3.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img29{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/priyatham-bollimpalli.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img30{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/nikhil.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img31{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/nirmal-manoj.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img32{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/sivay-lamba.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img33{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/rahul-garg.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img34{    
-    background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/govind-goyal.png?auto=format,compress&q=80");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img35{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/shyama.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img36{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690abec51e34cbc9072482b_Johan-thumbinail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img37{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690b14ce49b9ed3c0a7499c_sandeep-chandra-thumbnail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img38{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690b7c2dc4fade04120f946_tezan-thumbnail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img39{    
-    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690bf2c4727b379bef9754b_ankur-thumbnail.webp");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.card-img40{    
-    background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/shashank.png");
-    background-size: cover;
-    width: 300px;
-    height: 195px;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.trailer{
-    margin-left: 20px;
-    font-size: 15px;
-    background-color: #60a5fa;
-    width: 90px;
-    padding: 6px;
-    padding-left: 12px;
-    font-family: "Roboto";
-    border-radius: 1000px;
-}
-
-.svg-play{
-    width: 20px;
-    margin-left: 5px;
-}
-
-.svg-arrow{
-    width: 30px;
-    height: 30px;
-    margin-left: 2px;
-    margin-bottom: 3px;
-}
-
-.card-heading{
-    color: #f8fafc;
-    height: 90px;
-    margin-bottom: 16px;
-    font-family: "Roboto";
-    font-size: 23px;
-    font-weight: bold;
-}
-
-.card-time{
-    color: #e2e8f0;
-    font-family: "Roboto";
-    font-size: 14px;
-    font-weight: 400;
-}
-
-.clock{
-    width: 20px;
-    height: 20px;
-    margin-right: 5px;
-}
-
-.card{
-    background-color: #334155;
-    height: 480px;
-    width: 301px;
-    border-radius: 15px;
-    margin-left: 12px;
-    margin-right: 12px;
-}
-
-.card-para{
-    color: white;
-    font-weight: bold;
-    font-family: "Roboto";
-}
-
-.card-span{
-    color: white;
-    font-weight: 100 !important;
-    font-family: "Roboto";
-}
-
-.what-link{
-    color: #60a5fa;
-    font-family: "Roboto";
-    font-size: 15px;
-}
-
-.what-link:hover{
-    color: #60a5fa;
-}
-
-.modal-body{
-    padding: 25px;
-    padding-left: 40px;
-}
-
-.modal-scroll{
-    overflow-y: scroll;
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    max-height: 260px;
-}
-
-.pagination{
-    margin-top: 20px;
-}
-
-.page-link{
-    background-color: #00000000;
-    border-color: #00000000;
-    text-align: center;
-    width: 11%;
-    opacity: 0.5;
-}
-
-.pane-img{
-    width: 100%;
-}
-
-.page-link:hover{
-    background-color: #00000000;
-    border-color: #00000000;
-}
-
-.page-link.active{
-    background-color: #00000000 !important;
-    border-color: #00000000 !important;
-    opacity: 1;
-    width: 11%;
-    margin-right: 10px;
-    margin-left: 10px;
-    margin-top: -0.5%;
-    padding: 0;
-    border-radius: 1000px;
-
-}
-
-.modal-heading{
-    font-size: 30px;
-    font-family: "Roboto";
-    font-weight: bold;
-    margin-bottom: 36px;
-}
-
-.modal-h1{
-    color: white;
-    font-weight: bold;
-    font-family: "Arial";
-    font-size: 20px;
-}
-
-.modal-h2{
-    color: white;
-    font-weight: 100 !important;
-    font-family: "Arial";
-    font-size: 17px;
-}
-
-.modal-h3{
-    color: white;
-    font-weight: bold !important;
-    font-family: "Roboto";
-    font-size: 17px;
-    margin-bottom: 0;
-}
-
-.exp-logo1{
-    width: 100px;
-    margin-top: 15px;
-    margin-right: 20px;
-}
-
-.exp-logo2{
-    width: 100px;
-    margin-top: 0;
-    margin-right: 20px;
-}
-
-.exp-logo3{
-    width: 100px;
-    margin-top: 0;
-}
-
-.modal-points{
-    color: white;
-    font-family: "Arial";
-    font-size: 20px;
-    margin-top: 30px;
-}
-
-.points{
-    width: 30px;
-    margin-right: 20px;
-}
-
-.pane-bg{
-    background-color: #475569 !important;
-    padding: 35px;
-    padding-top: 10px;
-    padding-bottom: 45px;
-    height: 75%;
-    border-radius: 15px;
-}
-
-.pane{
-    width: 100%;
-    height: 260px;
-}
-
-.b4heading{
-    padding-top: 100px;
-    font-family: "Roboto";
-    font-weight: bolder;
-    font-size: 50px;
-    line-height: 70px;
-}
-
-.b4para{
-    font-family: "Arial";
-    font-size: 22px;
-    color: #f59e0b;
-    background-color: #211f25;
-    border-color: #713f12;
-    border-style: solid;
-    margin-top: 20px;
-    width: 22%;
-    border-width: 1px;
-    border-radius: 200px;
-    padding: 8px;
-}
-
-.b5heading{
-    font-family: "Roboto";
-    font-weight: bold;
-    font-size: 50px;
-    line-height: 70px;
-    margin-left: 70px;
-    margin-bottom: 60px;
-}
-
-.b5para{
-    font-family: "Roboto";
-    font-size: 26px;
-    margin-bottom: 30px;
-    color: white;
-    margin-left: 70px;
-}
-
-.b5button{
-    margin-left: 70px;
-}
-
-.b6heading{
-    font-family: "Roboto";
-    font-weight: bold;
-    font-size: 50px;
-    line-height: 70px;
-    margin-left: 185px;
-    padding-top: 10%;
-}
-
-input{
-    background-color: #334155 !important;
-    border-color: #00000000 !important;
-    border-radius: 20px;
-    padding-left: 10px;
-    height: 40px !important;
-}
-
-.dropdown-toggle{
-    color: #94a3b8;
-}
-
-input::placeholder{
-    color: #94a3b8 !important;
-}
-
-.input-group{
-    background-color: #334155 !important;
-    border-radius: 8px;
-    border-color: #475569 !important;
-    border-style: solid;
-    border-width: 1px;
-    height: 41px;
-    width: 430px;
-}
-
-.dropdown-item{
-    width: 430px;
-}
-
-.b6button{
-    width: 430px;
-}
-
-
-.b7para{
-    font-size: 20px;
-    margin-left: 155px;
-}
-
-.footer:hover{
-    color: white !important;
-}
-
-.lcard{
-    background-color: #1e293b;
-    padding: 20px;
-    border-radius: 7px;
-    margin-right: 10px;
-    width: 500px;
-}
-
-.lcard-link{
-    font-size: 80px;
-    text-align: center;
-    width: 20px;
-    height: 0;
-    margin-top: -70px;
-    opacity: 0.15;
-    color: white;
-}
-
-.lcard-link:hover{
-    background-color: #00000000;
-}
-
-.lcard-link.active{
-    opacity: 1;
-    color: white;
+.l6 {
+  width: 120px;
+}
+
+.l7 {
+  width: 80px;
+}
+
+.l8 {
+  width: 80px;
+}
+
+.tab-pane {
+  background-color: #00000000 !important;
+}
+
+.card-img1 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sandeep.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img2 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/pritesh.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img3 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sanjay.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img4 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/goutam.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img5 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/ashok-vardhan.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img6 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/sri-vidhya.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img7 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/kiran.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img8 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/abhinav.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img9 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/siva-ghani-reddy.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img10 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690c3b977eb17ab2fe49ddb_krishna-raghavan-thumbnail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img11 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/giridhar.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img12 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/shiva-kumar.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img13 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690c65ced331713c1b1b2dc_irshad-thumbnail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img14 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690c9ef1acc87ac5abbaa62_sriram-thumbnail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img15 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/architha-nagelli.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img16 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/naveen.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img17 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/deepa-wadhwani.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img18 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sanjay-sehgal.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img19 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/trivikrama-kothinti-2.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img20 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/rakesh-mishra.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img21 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/ram-ganesh.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img23 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/girish-akash.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img24 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/hari-tn.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img25 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/shri-dana-kishor.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img26 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/panel-2.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img27 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/panel-1.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img28 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/panel-3.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img29 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/priyatham-bollimpalli.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img30 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/nikhil.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img31 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/nirmal-manoj.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img32 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/sivay-lamba.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img33 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/rahul-garg.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img34 {
+  background-image: url("https://nxtwave.imgix.net/ccbp-website/podcast/rare-collection-of-insider-knowledge/govind-goyal.png?auto=format,compress&q=80");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img35 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/shyama.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img36 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690abec51e34cbc9072482b_Johan-thumbinail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img37 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690b14ce49b9ed3c0a7499c_sandeep-chandra-thumbnail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img38 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690b7c2dc4fade04120f946_tezan-thumbnail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img39 {
+  background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/6690bf2c4727b379bef9754b_ankur-thumbnail.webp");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-img40 {
+  background-image: url("https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/shashank.png");
+  background-size: cover;
+  width: 300px;
+  height: 195px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.trailer {
+  margin-left: 20px;
+  font-size: 15px;
+  background-color: #60a5fa;
+  width: 90px;
+  padding: 6px;
+  padding-left: 12px;
+  font-family: "Roboto";
+  border-radius: 1000px;
+}
+
+.svg-play {
+  width: 20px;
+  margin-left: 5px;
+}
+
+.svg-arrow {
+  width: 30px;
+  height: 30px;
+  margin-left: 2px;
+  margin-bottom: 3px;
+}
+
+.card-heading {
+  color: #f8fafc;
+  height: 90px;
+  margin-bottom: 16px;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.card-time {
+  color: #e2e8f0;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.clock {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.card {
+  background-color: #334155;
+  height: 480px;
+  width: 301px;
+  border-radius: 15px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.card-para {
+  color: white;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+
+.card-span {
+  color: white;
+  font-weight: 100 !important;
+  font-family: "Roboto";
+}
+
+.what-link {
+  color: #60a5fa;
+  font-family: "Roboto";
+  font-size: 15px;
+}
+
+.what-link:hover {
+  color: #60a5fa;
+}
+
+.modal-body {
+  padding: 25px;
+  padding-left: 40px;
+}
+
+.modal-scroll {
+  overflow-y: scroll;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  max-height: 260px;
+}
+
+.pagination {
+  margin-top: 20px;
+}
+
+.page-link {
+  background-color: #00000000;
+  border-color: #00000000;
+  text-align: center;
+  width: 11%;
+  opacity: 0.5;
+}
+
+.pane-img {
+  width: 100%;
+}
+
+.page-link:hover {
+  background-color: #00000000;
+  border-color: #00000000;
+}
+
+.page-link.active {
+  background-color: #00000000 !important;
+  border-color: #00000000 !important;
+  opacity: 1;
+  width: 11%;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: -0.5%;
+  padding: 0;
+  border-radius: 1000px;
+}
+
+.modal-heading {
+  font-size: 30px;
+  font-family: "Roboto";
+  font-weight: bold;
+  margin-bottom: 36px;
+}
+
+.modal-h1 {
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  font-size: 20px;
+}
+
+.modal-h2 {
+  color: white;
+  font-weight: 100 !important;
+  font-family: "Arial";
+  font-size: 17px;
+}
+
+.modal-h3 {
+  color: white;
+  font-weight: bold !important;
+  font-family: "Roboto";
+  font-size: 17px;
+  margin-bottom: 0;
+}
+
+.exp-logo1 {
+  width: 100px;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+.exp-logo2 {
+  width: 100px;
+  margin-top: 0;
+  margin-right: 20px;
+}
+
+.exp-logo3 {
+  width: 100px;
+  margin-top: 0;
+}
+
+.modal-points {
+  color: white;
+  font-family: "Arial";
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.points {
+  width: 30px;
+  margin-right: 20px;
+}
+
+.pane-bg {
+  background-color: #475569 !important;
+  padding: 35px;
+  padding-top: 10px;
+  padding-bottom: 45px;
+  height: 75%;
+  border-radius: 15px;
+}
+
+.pane {
+  width: 100%;
+  height: 260px;
+}
+
+.b4heading {
+  padding-top: 100px;
+  font-family: "Roboto";
+  font-weight: bolder;
+  font-size: 50px;
+  line-height: 70px;
+}
+
+.b4para {
+  font-family: "Arial";
+  font-size: 22px;
+  color: #f59e0b;
+  background-color: #211f25;
+  border-color: #713f12;
+  border-style: solid;
+  margin-top: 20px;
+  width: 22%;
+  border-width: 1px;
+  border-radius: 200px;
+  padding: 8px;
+}
+
+.b5heading {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 70px;
+  margin-left: 70px;
+  margin-bottom: 60px;
+}
+
+.b5para {
+  font-family: "Roboto";
+  font-size: 26px;
+  margin-bottom: 30px;
+  color: white;
+  margin-left: 70px;
+}
+
+.b5button {
+  margin-left: 70px;
+}
+
+.b6heading {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 70px;
+  margin-left: 185px;
+  padding-top: 10%;
+}
+
+input {
+  background-color: #334155 !important;
+  border-color: #00000000 !important;
+  border-radius: 20px;
+  padding-left: 10px;
+  height: 40px !important;
+}
+
+.dropdown-toggle {
+  color: #94a3b8;
+}
+
+input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.input-group {
+  background-color: #334155 !important;
+  border-radius: 8px;
+  border-color: #475569 !important;
+  border-style: solid;
+  border-width: 1px;
+  height: 41px;
+  width: 430px;
+}
+
+.dropdown-item {
+  width: 430px;
+}
+
+.b6button {
+  width: 430px;
+}
+
+.b7para {
+  font-size: 20px;
+  margin-left: 155px;
+}
+
+.footer:hover {
+  color: white !important;
+}
+
+.lcard {
+  background-color: #1e293b;
+  padding: 20px;
+  border-radius: 7px;
+  margin-right: 10px;
+  width: 500px;
+}
+
+.lcard-link {
+  font-size: 80px;
+  text-align: center;
+  width: 20px;
+  height: 0;
+  margin-top: -70px;
+  opacity: 0.15;
+  color: white;
+}
+
+.lcard-link:hover {
+  background-color: #00000000;
+}
+
+.lcard-link.active {
+  opacity: 1;
+  color: white;
 }
